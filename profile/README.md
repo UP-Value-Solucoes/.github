@@ -1,4 +1,4 @@
-<img src="https://github.com/UP-Value-Solucoes/.github/blob/main/img/WhatsApp%20Image%202023-07-11%20at%2014.22.36.jpeg">
+<img align="center" src="https://github.com/UP-Value-Solucoes/.github/blob/main/img/oficial_UPvalue.png">
 
 # Somos os principais parceiros da transformação do seu negócio!
 
