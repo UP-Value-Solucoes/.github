@@ -43,11 +43,13 @@
     <td><img src="https://avatars.githubusercontent.com/u/102882298?v=4" alt="Imagem 5"></td>
     <td><img src="https://avatars.githubusercontent.com/u/54148914?v=4" alt="Imagem 5"></td>
     <td><img src="https://avatars.githubusercontent.com/u/84047213?v=4" alt="Imagem 5"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/70417159?v=4" alt="Imagem 5"></td>
   </tr>
   <td align="center"
    <td><a href="https://github.com/PauloVitorrr" target="blank">Paulo Vitor</a></td>
    <td><a href="https://github.com/IsabeleOliveira" target="blank">Isabele Oliveira</a></td>
    <td><a href="https://github.com/GNovaisL" target="blank">Gabriel Novais</a></td>
+   <td><a href="https://github.com/israelylima" target="blank">Israely Lima</a></td>
   </td>
   
 </table>
