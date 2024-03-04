@@ -27,14 +27,14 @@
   
   <tr align="center">
     <td><img src="https://avatars.githubusercontent.com/u/74565748?v=4" alt="Imagem 1"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/162129270?v=4" alt="Imagem 2" ></td>
+    <td><img src="https://avatars.githubusercontent.com/u/162127769?v=4" alt="Imagem 2" ></td>
     <td><img src="https://avatars.githubusercontent.com/u/56416123?v=4" alt="Imagem 3"></td>
     <td><img src="https://avatars.githubusercontent.com/u/161594794?v=4" alt="Imagem 4"></td>
   </tr>
   <tr align="center">
     <td><a href="https://github.com/BernardoVictor" target="blank">Victor Bernardo</a></td>
     <td><a href="https://github.com/saralexandref" target="blank">Sara Alexandre</a></td>
-    <td><a href="https://github.com/VINIA6" target="blank">Vinícius de Assis</a></td>
+    <td><a href="https://github.com/ViniA6Up" target="blank">Vinícius de Assis</a></td>
     <td><a href="https://github.com/YanUp05" target="blank">Yan Rodrigues</a></td>
   </tr>
 
