@@ -27,8 +27,8 @@
   
   <tr align="center">
     <td><img src="https://avatars.githubusercontent.com/u/74565748?v=4" alt="Imagem 1"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/162127769?v=4" alt="Imagem 2" ></td>
-    <td><img src="https://avatars.githubusercontent.com/u/56416123?v=4" alt="Imagem 3"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/162129270?v=4" alt="Imagem 2" ></td>
+    <td><img src="https://avatars.githubusercontent.com/u/162127769?v=4" alt="Imagem 3"></td>
     <td><img src="https://avatars.githubusercontent.com/u/161594794?v=4" alt="Imagem 4"></td>
   </tr>
   <tr align="center">
