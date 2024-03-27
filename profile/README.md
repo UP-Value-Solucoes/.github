@@ -39,10 +39,12 @@
   <tr align="center">
     <td><img src="https://avatars.githubusercontent.com/u/161530021?v=4" alt="Imagem 5"></td>
     <td><img src="https://avatars.githubusercontent.com/u/161596542?v=4" alt="Imagem 5"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/165200170?v=4" alt="Imagem 5"></td>
   </tr>
   <td align="center"
    <td><a href="https://github.com/mariaisabeleup" target="blank">Isabele Oliveira</a></td>
    <td><a href="https://github.com/GNovaisDev" target="blank">Gabriel Novais</a></td>
+   <td><a href="https://github.com/KauanCodes" target="blank">Kauan Deyvid</a></td>
   </td>
   
 </table>
