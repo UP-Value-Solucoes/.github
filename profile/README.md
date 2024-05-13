@@ -50,7 +50,7 @@
 <tr align="center">
     <td><img src="https://avatars.githubusercontent.com/u/169666925?v=4" alt="Imagem 5"></td>
     <td><img src="https://avatars.githubusercontent.com/u/169667225?v=4" alt="Imagem 5"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/165200170?v=4" alt="Imagem 5"></td>
+    <td><img src="" alt="Imagem 5"></td>
   </tr>
   <td align="center"
    <td><a href="https://github.com/arnaldoquagliatoUpvalue" target="blank">Arnaldo Quagliato</a></td>
