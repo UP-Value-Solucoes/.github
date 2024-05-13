@@ -46,6 +46,17 @@
    <td><a href="https://github.com/GNovaisDev" target="blank">Gabriel Novais</a></td>
    <td><a href="https://github.com/KauanCodes" target="blank">Kauan Deyvid</a></td>
   </td>
+
+<tr align="center">
+    <td><img src="https://avatars.githubusercontent.com/u/169666925?v=4" alt="Imagem 5"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/169667225?v=4" alt="Imagem 5"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/165200170?v=4" alt="Imagem 5"></td>
+  </tr>
+  <td align="center"
+   <td><a href="https://github.com/arnaldoquagliatoUpvalue" target="blank">Arnaldo Quagliato</a></td>
+   <td><a href="https://github.com/alanaUpValue" target="blank">Alana Maia</a></td>
+   <td><a href="" target="blank">Anderson Reges</a></td>
+  </td>
   
 </table>
 
