@@ -28,12 +28,12 @@
   <tr align="center">
     <td><img src="https://avatars.githubusercontent.com/u/74565748?v=4" alt="Imagem 1"></td>
     <td><img src="https://avatars.githubusercontent.com/u/162127769?v=4" alt="Imagem 3"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/169666925?v=4" alt="Imagem 5"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/169667390?v=4" alt="Imagem 5"></td>
   </tr>
   <tr align="center">
     <td><a href="https://github.com/BernardoVictor" target="blank">Victor Bernardo</a></td>
     <td><a href="https://github.com/ViniA6Up" target="blank">Vinícius de Assis</a></td>
-    <td><a href="https://github.com/arnaldoquagliatoUpvalue" target="blank">Arnaldo Quagliato</a></td>
+    <td><a href="https://github.com/AndersonReges" target="blank">Anderson Reges</a></td>
   </tr>
 
   <tr align="center">
@@ -45,13 +45,6 @@
    <td><a href="https://github.com/mariaisabeleup" target="blank">Isabele Oliveira</a></td>
    <td><a href="https://github.com/GNovaisDev" target="blank">Gabriel Novais</a></td>
    <td><a href="https://github.com/KauanCodes" target="blank">Kauan Deyvid</a></td>
-  </td>
-
-<tr align="center">
-    <td><img src="https://avatars.githubusercontent.com/u/169667390?v=4" alt="Imagem 5"></td>
-  </tr>
-  <td align="center"
-   <td><a href="https://github.com/AndersonReges" target="blank">Anderson Reges</a></td>
   </td>
   
 </table>
